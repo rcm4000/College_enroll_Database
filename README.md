@@ -23,12 +23,14 @@ Database Server & Web Interface Application
 This project was developed using ASP.net and C# and Microsoft SQL Server.   We use Visual Studio to write and test the code. We chose to use Visual Studio because it had a built in web Server which runs locally on our machine and it made testing our web application easier.  Using the Local IIS is the closest to what a live site would run under.  It also has a one click deploy to Azure, which makes transferring our application into a life environment fast and easy.   In addition, since Visual studio comes built in with Microsoft SQL Server it made it easy for us to install the program and start code immediately. We didn’t  need to set up any server connections or install any other tools separately it was just one program.  It this made testing easy because we both were in different locations and the application was saved on the cloud.
 
 Design Software:
+
 Microsoft Visual Studio Community 2017  Version 15.2 (26430.16) Release
 Microsoft .NET Framework
 Version 4.7.02046
 Azure portal 
 
 Installed Version: Community
+
 Visual C# 2017  
 Microsoft Visual C# 2017
 Microsoft SQL Server
